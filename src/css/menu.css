@@ -12,7 +12,7 @@
 
 .header nav ul li a:hover{
     color: white;
-    background-color: var(--cor-principal);
+    background-color: var(--cor-secundaria);
 }
 
 /* RESPONSIVE */
